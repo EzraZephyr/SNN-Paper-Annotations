@@ -7,7 +7,7 @@
 
 **持续更新**
   
-需要对着原文进行观看 因为笔记内的数学公式暂时没有使用Latex进行编写 所以公式部分需要参考原文 原文链接已附于每篇笔记开头的超链接
+因为笔记内的数学公式暂时没有使用Latex进行编写 所以公式部分需要参考原文 原文链接已附于每篇笔记开头的超链接
 
 由于这些笔记为**个人学习记录** 所以内容难免会有一些错误 请谨慎参考
 
@@ -19,6 +19,10 @@
 
 #### 2023
 
+- **SEENN: Towards Temporal Spiking Early-Exit Neural Networks** [笔记](2023/SEENN,%20Towards%20Temporal%20Spiking%20Early-Exit%20Neural%20Networks.md)
+- **Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies** [笔记](2023/Parallel%20Spiking%20Neurons%20with%20High%20Efficiency%20and%20Ability%20to%20Learn%20Long-term%20Dependencies.md)
+- **Spike-driven Transformer** [笔记](2023/Spike-driven%20Transformer.md)
+- **MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network** [笔记](2023/Enhancing%20the%20Performance%20of%20Transformer-based%20Spiking%20Neural%20Networks%20by%20SNN-optimized%20Downsampling%20with%20Precise%20Gradient%20Backpropagation.md)
 - **Training Full Spike Neural Networks via Auxiliary Accumulation Pathway** [笔记](2023/Training%20Full%20Spike%20Neural%20Networks%20via%20Auxiliary%20Accumulation%20Pathway.md)
 - **Enhancing the Performance of Transformer-based Spiking Neural Networks by SNN-optimized Downsampling with Precise Gradient Backpropagation** [笔记](2023/Enhancing%20the%20Performance%20of%20Transformer-based%20Spiking%20Neural%20Networks%20by%20SNN-optimized%20Downsampling%20with%20Precise%20Gradient%20Backpropagation.md)
 - **Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network** [笔记](2023/Spikingformer,%20Spike-driven%20Residual%20Learning%20for%20Transformer-based%20Spiking%20Neural%20Network.md)
