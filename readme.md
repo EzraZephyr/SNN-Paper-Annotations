@@ -19,6 +19,9 @@
 
 #### 2023
 
+- **EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks** [笔记](2023/EICIL,%20Joint%20Excitatory%20Inhibitory%20Cycle%20Iteration%20Learning%20for%20Deep%20Spiking%20Neural%20Networks.md)
+- **Evolving Connectivity for Recurrent Spiking Neural Networks** [笔记](2023/Evolving%20Connectivity%20for%20Recurrent%20Spiking%20Neural%20Networks.md)
+- **Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons** [笔记](2023/Addressing%20the%20speed-accuracy%20simulation%20trade-off%20for%20adaptive%20spiking%20neurons.md)
 - **SEENN: Towards Temporal Spiking Early-Exit Neural Networks** [笔记](2023/SEENN,%20Towards%20Temporal%20Spiking%20Early-Exit%20Neural%20Networks.md)
 - **Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies** [笔记](2023/Parallel%20Spiking%20Neurons%20with%20High%20Efficiency%20and%20Ability%20to%20Learn%20Long-term%20Dependencies.md)
 - **Spike-driven Transformer** [笔记](2023/Spike-driven%20Transformer.md)
