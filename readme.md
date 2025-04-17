@@ -19,6 +19,11 @@
 
 #### 2023
 
+- **SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks** [笔记](2023/SparseProp,%20Efficient%20Event-Based%20Simulation%20and%20Training%20of%20Sparse%20Recurrent%20Spiking%20Neural%20Networks.md)
+- **Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks** [笔记](2023/Exploring%20Loss%20Functions%20for%20Time-based%20Training%20Strategy%20in%20Spiking%20Neural%20Networks.md)
+- **Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence** [笔记](2023/Unleashing%20the%20Potential%20of%20Spiking%20Neural%20Networks%20with%20Dynamic%20Confidence.md)
+- **Membrane Potential Batch Normalization for Spiking Neural Networks** [笔记](2023/Membrane%20Potential%20Batch%20Normalization%20for%20Spiking%20Neural%20Networks.md)
+- **Spiking PointNet: Spiking Neural Networks for Point Clouds** [笔记](2023/Spiking%20PointNet,%20Spiking%20Neural%20Networks%20for%20Point%20Clouds.md)
 - **EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks** [笔记](2023/EICIL,%20Joint%20Excitatory%20Inhibitory%20Cycle%20Iteration%20Learning%20for%20Deep%20Spiking%20Neural%20Networks.md)
 - **Evolving Connectivity for Recurrent Spiking Neural Networks** [笔记](2023/Evolving%20Connectivity%20for%20Recurrent%20Spiking%20Neural%20Networks.md)
 - **Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons** [笔记](2023/Addressing%20the%20speed-accuracy%20simulation%20trade-off%20for%20adaptive%20spiking%20neurons.md)
